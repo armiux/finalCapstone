@@ -20,7 +20,7 @@ pip install pandas matplotlib seaborn
 
 Usage
 To use this project, clone the repository to your local machine and open "USArrests.ipynb" in Jupyter Notebook. The notebook contains the code and explanations for the exploratory data analysis and visualization of the "USArrests" dataset.
-![Screenshot of my project](finalCapstone/screenshot1.png)
+![Screenshot of my project](/screenshot1.png)
 ![Screenshot of my project](finalCapstone/screenshot2.png)
 ![Screenshot of my project](finalCapstone/screenshot3.png)
 ![Screenshot of my project](finalCapstone/screenshot4.png)
